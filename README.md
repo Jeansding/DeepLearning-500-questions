@@ -1,5 +1,6 @@
 # 1. 版权声明  
 https://github.com/scutan90/DeepLearning-500-questions
+
 请尊重作者的知识产权，版权所有，翻版必究。   未经许可，严禁转发内容！     
 请大家一起维护自己的劳动成果，进行监督。  未经许可， 严禁转发内容！ 　　　
 2018.6.27 TanJiyong
